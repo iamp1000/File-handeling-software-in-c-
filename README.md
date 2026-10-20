@@ -1,6 +1,6 @@
 # C File Operations
 
-*The Office, except the paperwork is literally files.*
+Small C file-I/O exercises, with fewer folders named `final_final_v2` than the average desktop.
 
 A small C project for practicing file handling with the standard I/O library (`stdio.h`). It focuses on the basic operations that every program eventually needs to learn before it starts creating folders named `final_final_v2`.
 
@@ -35,4 +35,4 @@ Replace `<source-file.c>` with the actual source filename in the repository. On 
 
 Deletion and overwrite operations can be destructive. Test with disposable files, validate filenames, and check every file-operation result before treating the operation as successful.
 
-*That's what she said. About checking return values. Obviously.*
+A missing return-value check is how a tiny file operation becomes an unexpectedly long afternoon.
